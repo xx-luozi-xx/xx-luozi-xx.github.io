@@ -16,8 +16,7 @@ $$
 </div>
 <div style="text-align: right;">  
   <span style="font-family: 'Times New Roman', serif;">
-——Set Theory: The Axiom of Infinity
-
+——Set Theory: The Axiom of Infinity<br/>
 <b>Nothing</b> and the <b>Next Step</b> can create <b>Unlimited Possibilities</b>.
 
   </span>
