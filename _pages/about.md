@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <div style="text-align: center;">
 

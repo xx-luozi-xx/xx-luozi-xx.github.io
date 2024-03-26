@@ -4,13 +4,14 @@ main:
     url: /
 
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Hobbies"
-    url: /Hobbies/
+    url: /hobbies/
+
 #   - title: "Publications"
 #     url: /publications/
 
