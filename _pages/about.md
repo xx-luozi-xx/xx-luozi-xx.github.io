@@ -22,12 +22,10 @@ $$
   </span>
 </div>
 
-<hr></hr>
-
-&emsp;&emsp;I am a undergraduate student at Shandong University, major in Computer Science and Technology.
+<hr>
+&emsp;&emsp;I am a undergraduate student at Shandong University, major in Computer Science and Technology.<br/>
 &emsp;&emsp;I am interested in math, algorithms, and logic-related subjects. To generate ideas, I like to program to validate them. Therefore, if you have novel ideas and need technological support, please contact me :).
-
-<hr></hr>
+<hr>
 
 
 
