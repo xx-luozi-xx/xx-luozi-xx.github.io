@@ -22,8 +22,10 @@ $$
   </span>
 </div>
 
-Boyer Du (杜柏言)
------
+___
+&emsp;&emsp;I am a undergraduate student in Shandong University, major in Computer Science and Technology.
+
+___
 //todo
 
 <!-- School of Computer Science and Technology

@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.luogu.com.cn/user/662237" # URL
+  zhihu            : #"https://www.luogu.com.cn/user/662237" # URL
   luogu            : "https://www.luogu.com.cn/user/662237"
 
 # Site Settings
