@@ -3,6 +3,14 @@ main:
   - title: "Homepage"
     url: /
 
+  - title: "Projects"
+    url: /Projects/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Hobbies"
+    url: /Hobbies/
 #   - title: "Publications"
 #     url: /publications/
 
