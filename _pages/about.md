@@ -31,11 +31,20 @@ About me
 
 Projects
 -----
+<!-- 
+遗传算法
+高级数据结构
+C++STL复现 
+-->
+
 
 
 Teaching
 -----
-
+<!-- 
+math
+程设助教
+ -->
 
 
 
