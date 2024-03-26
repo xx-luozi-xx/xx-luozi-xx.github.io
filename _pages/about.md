@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Boyer About"
+title: "Boyer"
+subtitle: "杜柏言"
 author_profile: true
 redirect_from: 
   - /about/
