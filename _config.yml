@@ -21,14 +21,14 @@ repository               : "xx-luozi-xx/xx-luozi-xx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "luozi.jpg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "Cat" # example: "she/her"  
+  bio              : "I believe the world is a beautiful place."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xx_luozi_xx@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
