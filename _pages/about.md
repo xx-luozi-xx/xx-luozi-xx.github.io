@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+
+<body style="background-color:#FFFFCC;">
+</body>
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <div style="text-align: center;">
 
