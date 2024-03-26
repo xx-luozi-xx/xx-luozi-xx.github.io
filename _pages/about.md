@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
 $$
   \exists x ((\varnothing  \in x) \wedge (\forall u(u \in x) \rightarrow (u \cup \{u \}  \in x)))
 $$
