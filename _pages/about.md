@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align: center;">
 
 $$
-  \exists x ((\varnothing  \in x) \wedge (\forall u((u \in x) \rightarrow (u \cup \{u \}  \in x))))
+  \exists x ((\varnothing  \in x) \wedge (\forall u(u \in x) \rightarrow u \cup \{u \}  \in x))
 $$
 
 </div>
