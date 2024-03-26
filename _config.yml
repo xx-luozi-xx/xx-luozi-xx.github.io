@@ -25,7 +25,7 @@ author:
   name             : "Boyer Du"
   pronouns         : # "Cat" # example: "she/her"  
   bio              : "The world is a beautiful place."
-  location         : "Earth"
+  location         : "Qingdao, Shandong, China"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "xx_luozi_xx@qq.com" 
@@ -71,7 +71,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
+  luogu            : "https://www.luogu.com.cn/user/662237"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
