@@ -18,7 +18,7 @@ $$
   <span style="font-family: 'Times New Roman', serif;">
 ——Set Theory: The Axiom of Infinity
 
-**Nothing** and the **Next Step** can create **Unlimited Possibilities**.
+<b>Nothing</b> and the <b>Next Step</b> can create <b>Unlimited Possibilities</b>.
 
   </span>
 </div>
