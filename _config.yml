@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Boyer / Main Page       "
+title                    : "Boyer / Homepage       "
 title_separator          : "-"
 name                     : &name "Boyer"
 description              : &description "personal description"
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://www.luogu.com.cn/user/662237" # URL
   luogu            : "https://www.luogu.com.cn/user/662237"
 
 # Site Settings
