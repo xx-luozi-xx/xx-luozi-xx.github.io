@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Main Page       "
+title                    : "Boyer / Main Page       "
 title_separator          : "-"
 name                     : &name "Boyer"
 description              : &description "personal description"
