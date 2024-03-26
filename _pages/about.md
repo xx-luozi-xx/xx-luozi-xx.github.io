@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-$x+y=z$
+<div style="text-align: center;">
 
 $$
   \exists x ((\varnothing  \in x) \wedge (\forall u(u \in x) \rightarrow (u \cup \{u \}  \in x)))
 $$
+
+</div>
 <div style="text-align: right;">  
   <span style="font-family: 'Times New Roman', serif;">
 ——Set Theory: The Axiom of Infinity
