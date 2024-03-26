@@ -22,9 +22,9 @@ repository               : "xx-luozi-xx/xx-luozi-xx.github.io"
 author:
   # Biographic information
   avatar           : "luozi.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : "Cat" # example: "she/her"  
-  bio              : "I believe the world is a beautiful place."
+  name             : "Boyer Du"
+  pronouns         : # "Cat" # example: "she/her"  
+  bio              : "I believe the world is a beautiful place, as well as math."
   location         : "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
