@@ -30,27 +30,30 @@ $$
 
 About me
 =====
-&emsp;&emsp;I am a undergraduate student at Shandong University, major in Computer Science and Technology.<br/>
-&emsp;&emsp;I am interested in math, algorithms, and logic-related subjects. To generate ideas, I like to program to validate them. Therefore, if you have novel ideas and need technological support, please contact me :).
+&emsp;&emsp;I am an undergraduate student at Shandong University, majoring in Computer Science and Technology.<br/>
+&emsp;&emsp;I am interested in mathematics, algorithms, and logic-related subjects. To generate ideas, I enjoy programming to validate them. Therefore, if you have novel ideas and need technological support, please feel free to contact me :).
+
 <hr>
 
 Projects
 -----
 
 ### Genetic Algorithm <!--(https://github.com/xx-luozi-xx/Genetic_Algorithm) -->
-&emsp;&emsp;I've recently become more interested in genetic algorithms and am doing some experiments on them, looking forward to seeing how genetic algorithms perform on AI, gaming problems, and possibly upgrading genetic algorithms to reinforcement learning in the future.<br/>
+&emsp;&emsp;I've recently developed a keen interest in genetic algorithms and am currently conducting experiments with them. I'm excited to observe their performance in AI and gaming problems. Additionally, I'm considering the possibility of advancing genetic algorithms to reinforcement learning in the future.<br/>
 &emsp;&emsp;The code can be referenced [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
 
 ### Advanced Data Structure
-&emsp;&emsp;I've learned some theory of advanced data structures but wasn't satisfied with that and have done manual implementations of many of them.These include Kd-Tree, SkipList, Sparse Matrix, and so on. I've written them as templates in C++ to support easy calls, and this section will continue to be updated as I learn more.<br/>
-&emsp;&emsp;The code can be referenced [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
+&emsp;&emsp;I've studied advanced data structures theory, but I wasn't satisfied with just that. Consequently, I've manually implemented many of them, such as Kd-Tree, SkipList, and Sparse Matrix. These implementations are written as templates in C++ to facilitate easy usage. I plan to continue updating this section as I learn more.<br/>
+&emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Advanced-Data-Structures).
 
-### Advanced Data Structure
+### LZ_STL
+&emsp;&emsp;When I first learned C++ and became acquainted with the Standard Template Library (STL), I found myself intrigued by the specific implementation of many of its classes. After learning about their functionality and reviewing the information, I attempted to reproduce some parts. I would like to express my gratitude to my teacher for their invaluable assistance.<br\>
+&emsp;&emsp;The implementation process deviates somewhat from the C++ STL source code; it reflects more of my own approach to functionality. If you share my interest or discover any bugs, please don't hesitate to contact me!<br\>
+&emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/LZ_STL).
 
-<!-- 
-C++STL复现 
-OOCL
--->
+### OOLC
+//todo
+
 
 
 
