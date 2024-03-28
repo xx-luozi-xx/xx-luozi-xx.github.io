@@ -47,8 +47,8 @@ Projects
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Advanced-Data-Structures).
 
 ### LZ_STL
-&emsp;&emsp;When I first learned C++ and became acquainted with the Standard Template Library (STL), I found myself intrigued by the specific implementation of many of its classes. After learning about their functionality and reviewing the information, I attempted to reproduce some parts. I would like to express my gratitude to my teacher for their invaluable assistance.<br\>
-&emsp;&emsp;The implementation process deviates somewhat from the C++ STL source code; it reflects more of my own approach to functionality. If you share my interest or discover any bugs, please don't hesitate to contact me!<br\>
+&emsp;&emsp;When I first learned C++ and became acquainted with the Standard Template Library (STL), I found myself intrigued by the specific implementation of many of its classes. After learning about their functionality and reviewing the information, I attempted to reproduce some parts. I would like to express my gratitude to my teacher for their invaluable assistance.<br/>
+&emsp;&emsp;The implementation process deviates somewhat from the C++ STL source code; it reflects more of my own approach to functionality. If you share my interest or discover any bugs, please don't hesitate to contact me!<br/>
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/LZ_STL).
 
 ### OOLC
