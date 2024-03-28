@@ -37,12 +37,19 @@ About me
 Projects
 -----
 
-### [Genetic Algorithm](https://github.com/xx-luozi-xx/Genetic_Algorithm)
-&emsp;&emsp;I've recently become more interested in genetic algorithms and am doing some experiments on them, looking forward to seeing how genetic algorithms perform on AI, gaming problems, and possibly upgrading genetic algorithms to reinforcement learning in the future.
-&emsp;&emsp;The code can be referenced [here](https://github.com/xx-luozi-xx/Genetic_Algorithm)
+### Genetic Algorithm <!--(https://github.com/xx-luozi-xx/Genetic_Algorithm) -->
+&emsp;&emsp;I've recently become more interested in genetic algorithms and am doing some experiments on them, looking forward to seeing how genetic algorithms perform on AI, gaming problems, and possibly upgrading genetic algorithms to reinforcement learning in the future.<br/>
+&emsp;&emsp;The code can be referenced [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
+
+### Advanced Data Structure
+&emsp;&emsp;I've learned some theory of advanced data structures but wasn't satisfied with that and have done manual implementations of many of them.These include Kd-Tree, SkipList, Sparse Matrix, and so on. I've written them as templates in C++ to support easy calls, and this section will continue to be updated as I learn more.<br/>
+&emsp;&emsp;The code can be referenced [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
+
+### Advanced Data Structure
+
 <!-- 
-高级数据结构
 C++STL复现 
+OOCL
 -->
 
 
