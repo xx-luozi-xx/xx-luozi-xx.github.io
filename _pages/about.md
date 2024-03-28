@@ -36,8 +36,11 @@ About me
 
 Projects
 -----
+
+### [Genetic Algorithm](https://github.com/xx-luozi-xx/Genetic_Algorithm)
+&emsp;&emsp;I've recently become more interested in genetic algorithms and am doing some experiments on them, looking forward to seeing how genetic algorithms perform on AI, gaming problems, and possibly upgrading genetic algorithms to reinforcement learning in the future.
+&emsp;&emsp;The code can be referenced [here](https://github.com/xx-luozi-xx/Genetic_Algorithm)
 <!-- 
-遗传算法
 高级数据结构
 C++STL复现 
 -->
