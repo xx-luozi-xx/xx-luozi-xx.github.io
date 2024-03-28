@@ -36,7 +36,7 @@ About me
 <hr>
 
 Projects
------
+=====
 
 ### Genetic Algorithm <!--(https://github.com/xx-luozi-xx/Genetic_Algorithm) -->
 &emsp;&emsp;I've recently developed a keen interest in genetic algorithms and am currently conducting experiments with them. I'm excited to observe their performance in AI and gaming problems. Additionally, I'm considering the possibility of advancing genetic algorithms to reinforcement learning in the future.<br/>
@@ -58,14 +58,14 @@ Projects
 
 
 Teaching
------
+=====
 <!-- 
 math
 程设助教
  -->
 
 Hobbies
------
+=====
 
 <!-- 
 网瘾
