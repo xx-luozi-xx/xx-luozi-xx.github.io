@@ -40,7 +40,7 @@ Projects
 
 ### Genetic Algorithm <!--(https://github.com/xx-luozi-xx/Genetic_Algorithm) -->
 &emsp;&emsp;I've recently developed a keen interest in genetic algorithms and am currently conducting experiments with them. I'm excited to observe their performance in AI and gaming problems. Additionally, I'm considering the possibility of advancing genetic algorithms to reinforcement learning in the future.<br/>
-&emsp;&emsp;The code can be referenced [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
+&emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
 
 ### Advanced Data Structure
 &emsp;&emsp;I've studied advanced data structures theory, but I wasn't satisfied with just that. Consequently, I've manually implemented many of them, such as Kd-Tree, SkipList, and Sparse Matrix. These implementations are written as templates in C++ to facilitate easy usage. I plan to continue updating this section as I learn more.<br/>
