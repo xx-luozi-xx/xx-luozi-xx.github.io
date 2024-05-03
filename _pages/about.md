@@ -39,6 +39,9 @@ Projects
 =====
 
 ### Reinforcemet-Learning
+&emsp;&emsp;After studying and experimenting with genetic algorithms, I believe that reinforcement learning is a better choice for games or strategic problems. Consequently, I began to implement reinforcement learning from scratch in C++ for various specific problems such as rock-paper-scissors, tic-tac-toe, and snake. The algorithms used include Q-Learning and Deep-Q-Learning.<br/>
+&emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Reinforcemet-Learning).
+
 
 ### Genetic Algorithm
 &emsp;&emsp;I've recently developed a keen interest in genetic algorithms and am currently conducting experiments with them. I'm excited to observe their performance in AI and gaming problems. Additionally, I have advanced from genetic algorithms to reinforcement learning; for more details, see [here](https://github.com/xx-luozi-xx/Reinforcemet-Learning).<br/>
