@@ -70,12 +70,7 @@ Projects
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Colliding-Simulator).
 
 
-
-
-
-
-
-
+<hr>
 
 Teaching
 =====
@@ -87,6 +82,8 @@ Teaching
 math
 程设助教
  -->
+
+<hr>
 
 Hobbies
 =====
