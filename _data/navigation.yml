@@ -12,8 +12,8 @@ main:
   - title: "Hobbies"
     url: /hobbies/
 
-  - title: "爱好"
-    url: /aihao/
+  # - title: "爱好"
+  #   url: /aihao/
 #   - title: "Publications"
 #     url: /publications/
 
