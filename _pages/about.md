@@ -63,9 +63,14 @@ Projects
 
 ### L-Talk
 &emsp;&emsp;This is a simple chat tool running under the Windows operating system, developed using C++ for TCP socket programming. This tool could potentially become the foundation for the multiplayer game The-Cat-Came-To-Me in the future.<br/>
-&emsp;&emsp;The code can be found [here]().
+&emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/The-Cat-Came-To-Me).
 
 ### Colliding-Simulator
+&emsp;&emsp;This is a simple collision simulator created using the command line, running on the Windows operating system. It can simulate collisions of multiple two-dimensional rectangles of different masses in a frictionless environment.<br/>
+&emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Colliding-Simulator).
+
+
+
 
 
 
