@@ -48,8 +48,7 @@ Projects
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
 
 ### The-Cat-Came-To-Me
-&emsp;&emsp;This is a command-line based Japanese-style adventure (or narrative) game, inspired by "[Word Game](https://wordgame.cc/)". This is the largest project I have developed to date. Although it is not yet complete, writing a game by hand is truly exciting!
-
+&emsp;&emsp;This is a command-line based Japanese-style adventure (or narrative) game, inspired by "[Word Game](https://wordgame.cc/)". This is the largest project I have developed to date. Although it is not yet complete, writing a game by hand is truly exciting!<br/>
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/The-Cat-Came-To-Me).
 
 
@@ -63,6 +62,8 @@ Projects
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/LZ_STL).
 
 ### L-Talk
+&emsp;&emsp;This is a simple chat tool running under the Windows operating system, developed using C++ for TCP socket programming. This tool could potentially become the foundation for the multiplayer game The-Cat-Came-To-Me in the future.<br/>
+&emsp;&emsp;The code can be found [here]().
 
 ### Colliding-Simulator
 
