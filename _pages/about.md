@@ -43,13 +43,17 @@ Projects
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Reinforcemet-Learning).
 
 
-### Genetic Algorithm
+### Genetic-Algorithm
 &emsp;&emsp;I've recently developed a keen interest in genetic algorithms and am currently conducting experiments with them. I'm excited to observe their performance in AI and gaming problems. Additionally, I have advanced from genetic algorithms to reinforcement learning; for more details, see [here](https://github.com/xx-luozi-xx/Reinforcemet-Learning).<br/>
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Genetic_Algorithm).
 
 ### The-Cat-Came-To-Me
+&emsp;&emsp;This is a command-line based Japanese-style adventure (or narrative) game, inspired by "[Word Game](https://wordgame.cc/)". This is the largest project I have developed to date. Although it is not yet complete, writing a game by hand is truly exciting!
 
-### Advanced Data Structure
+&emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/The-Cat-Came-To-Me).
+
+
+### Advanced-Data-Structure
 &emsp;&emsp;I've studied advanced data structures theory, but I wasn't satisfied with just that. Consequently, I've manually implemented many of them, such as Kd-Tree, SkipList, and Sparse Matrix. These implementations are written as templates in C++ to facilitate easy usage. I plan to continue updating this section as I learn more.<br/>
 &emsp;&emsp;The code can be found [here](https://github.com/xx-luozi-xx/Advanced-Data-Structures).
 
